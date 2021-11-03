@@ -1,4 +1,4 @@
-module github.com/captain-corgi/gojek-lib-example
+module github.com/captain-corgi/gojek-lib-examples
 
 go 1.17
 
