@@ -1,2 +1,0 @@
-# github.com/gojek/heimdall/v7 v7.0.2
-## explicit; go 1.14

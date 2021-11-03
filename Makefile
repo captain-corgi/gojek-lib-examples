@@ -6,3 +6,12 @@ run:
 	@./heimdall-example
 clean:
 	@rm heimdall-example
+
+tidy:
+	go mod tidy
+
+.PHONY: vendor
+vendor:
+	go mod vendor
+clean-vendor:
+	rm -rf vendor
